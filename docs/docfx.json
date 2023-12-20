@@ -6,7 +6,7 @@
           "files": [
             "**IdeaRS.OpenModel.csproj"
           ],
-          "src": "..\\src"
+          "src": "..\src"
         }
       ],
       "outputFormat": "apiPage",
@@ -20,7 +20,7 @@
           "files": [
             "**IdeaStatiCa.BimApi.csproj"
           ],
-          "src": "..\\src"
+          "src": "..\src"
         }
       ],
       "dest": "api-bimapi",
@@ -34,7 +34,7 @@
           "files": [
             "**IdeaStatiCa.BimApiLink.csproj"
           ],
-          "src": "..\\src"
+          "src": "..\src"
         }
       ],
       "dest": "api-bimapilink",
@@ -48,7 +48,7 @@
           "files": [
             "**IdeaStatiCa.Plugin.csproj"
           ],
-          "src": "..\\src"
+          "src": "..\src"
         }
       ],
       "dest": "api-plugin",
